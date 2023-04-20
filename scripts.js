@@ -1,3 +1,4 @@
+// poo
 const cursorDot = document.getElementById("cursorDot");
 const cursorTrail = document.getElementById("cursorTrail");
 const trailElements = Array.from(cursorTrail.getElementsByClassName("trail"));
